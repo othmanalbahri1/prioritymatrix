@@ -20,6 +20,6 @@ This prevents interference with other apps' UIs.
 You can sync tasks across devices by installing the portable version of Rainmeter on a cloud folder (eg Onedrive). To launch Rainmeter on startup in this case follow [this guide](https://www.howtogeek.com/208224/how-to-add-programs-files-and-folders-to-system-startup-in-windows-8.1).
 
 # Other ideas:
-1. Each quadrant takes about 14 lines. Anything that't not in the first 14 lines will not be shown in the quadrant. You can use that space to save completed tasks or UTF-16 characters for future use.
+1. Each quadrant takes about 14 lines. Anything that't not in the first 14 lines will not be shown in the quadrant. You can use that hidden space to store stuff like completed tasks or UTF-16 characters for future use.
 
 2. Since each quadrant is a simple text file, you can easily integrate web-parsers or automation scripts for your tasks.
