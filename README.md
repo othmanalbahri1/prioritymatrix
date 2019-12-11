@@ -1,5 +1,5 @@
 # PriorityMatrix
-Rainmeter skin to organize your to-do list according to a 2x2 priority matrix (windows only).
+A Rainmeter skin to organize your to-do list according to a 2x2 priority matrix (windows only).
 
 # Setup:
 1. Download and install Rainmeter: https://www.rainmeter.net/
