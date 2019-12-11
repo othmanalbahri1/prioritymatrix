@@ -3,10 +3,11 @@ A Rainmeter skin to organize your to-do list according to a 2x2 priority matrix.
 
 # Setup (Windows only):
 1. [Download and install Rainmeter](https://www.rainmeter.net) (see below for cloud syncing across devices).
-2. Copy the PriorityMatrix folder from this repository to the Skins folder where you installed Rainmeter (/Rainmeter/Skins/PriorityMatrix/).
-3. Open Rainmeter (find Rainmeter.exe or Rainmeter icon in taskbar).
-4. Click Refresh All.
-5. PriorityMatrix should now be listed on the left. Expand it, click PriorityMatrix.ini then Load.
+2. Click Clone & Download above and select Download Zip.
+3. Unzip the downloaded folder and copy the PriorityMatrix folder to the Skins folder where you installed Rainmeter (/Rainmeter/Skins/PriorityMatrix/).
+4. Open Rainmeter (find Rainmeter.exe or Rainmeter icon in taskbar).
+5. Click Refresh All.
+6. PriorityMatrix should now be listed on the left. Expand it, click PriorityMatrix.ini then Load.
 
 # Adding tasks:
 Clicking on Do now, Delegate, Schedule, or Eliminate opens a text file to enter your tasks. Edit as desired and save it (you can use any UTF-16 characters such as check marks or empty boxes). It should update the relevant quadrant automatically. 
