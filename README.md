@@ -13,6 +13,7 @@ Clicking on Do now, Delegate, Schedule, or Eliminate opens a text file to enter 
 
 # Always on Desktop
 To keep PriorityMatrix stuck to the Desktop, right click on it (after it's been loaded): Settings -> Poisition -> On Desktop
+This prevents interference with other apps' UIs.
 
 # Cloud syncing:
 You can sync tasks across devices by installing the portable version of Rainmeter on a cloud folder (eg Onedrive). To launch Rainmeter on startup in this case follow [this guide](https://www.howtogeek.com/208224/how-to-add-programs-files-and-folders-to-system-startup-in-windows-8.1).
