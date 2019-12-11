@@ -2,6 +2,7 @@
 A Rainmeter skin to organize your to-do list according to a 2x2 priority matrix. More info on this method [here](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method).
 
 ![demo](https://user-images.githubusercontent.com/53126078/70654816-f9ab4780-1c4e-11ea-86d8-a253644707e6.jpg)
+You can drag it around ;)
 
 # Setup (Windows only):
 1. [Download and install Rainmeter](https://www.rainmeter.net) (see below for cloud syncing across devices).
