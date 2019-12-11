@@ -1,7 +1,7 @@
 # PriorityMatrix
-A Rainmeter skin to organize your to-do list according to a 2x2 priority matrix (Windows only). More info on this method [here](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method).
+A Rainmeter skin to organize your to-do list according to a 2x2 priority matrix. More info on this method [here](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method).
 
-# Setup:
+# Setup (Windows only):
 1. [Download and install Rainmeter](https://www.rainmeter.net) (see below for cloud syncing across devices).
 2. Copy the PriorityMatrix folder from this repository to the Skins folder where you installed Rainmeter.
 3. Open Rainmeter (find Rainmeter.exe or Rainmeter icon in taskbar).
