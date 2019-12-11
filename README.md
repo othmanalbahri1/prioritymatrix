@@ -13,6 +13,7 @@ Clicking on Do now, Delegate, Schedule, or Eliminate opens a text file to enter 
 
 # Always on Desktop
 To keep PriorityMatrix stuck to the Desktop, right click on it (after it's been loaded): Settings -> Poisition -> On Desktop
+
 This prevents interference with other apps' UIs.
 
 # Cloud syncing:
