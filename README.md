@@ -12,7 +12,7 @@ A Rainmeter skin to organize your to-do list according to a 2x2 priority matrix.
 6. PriorityMatrix should now be listed on the left. Expand it, click PriorityMatrix.ini then Load.
 
 # Adding tasks:
-Clicking on Do now, Delegate, Schedule, or Eliminate opens a text file to enter your tasks. Edit as desired and save it (you can use any UTF-16 characters such as check marks or empty boxes). It should update the relevant quadrant automatically. 
+Clicking on Do now, Delegate, Schedule, or Eliminate opens a text file to enter/edit your tasks. Edit as desired and save it (you can use any UTF-16 characters such as check marks or empty boxes). It should update the relevant quadrant automatically. 
 
 # Always on Desktop
 To keep PriorityMatrix stuck to the Desktop, right click on it (after it's been loaded): Settings -> Poisition -> On Desktop
